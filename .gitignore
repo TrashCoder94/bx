@@ -5,7 +5,3 @@
 tags
 .DS_Store
 .gdb_history
-
-**.vcxproj
-**.vcxproj.filters
-**.vcxproj.user
